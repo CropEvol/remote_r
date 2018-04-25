@@ -10,7 +10,6 @@ Jupyter Notebook クラウド解析環境 on Binder (beta)
 ## 解析環境  
 ### R
 - 利用可能パッケージは、`library()`で確認してください
-- 追加でインストールしたパッケージ > [install.R](./install.R)
 
 
 ## メモ
